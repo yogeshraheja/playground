@@ -5,7 +5,7 @@ metadata:
   name: demo3-source-s3
   namespace: flux-system
 spec:
-  bucketName: thinknxytest
+  bucketName: thinknyxdemotest
   endpoint: s3.amazonaws.com
   interval: 1m0s
   provider: aws
