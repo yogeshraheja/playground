@@ -11,4 +11,4 @@ spec:
   sourceRef:
     kind: Bucket
     name: demo3-source-s3
-  targetNamespace: demons
+  targetNamespace: default
