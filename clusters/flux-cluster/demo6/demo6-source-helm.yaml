@@ -7,3 +7,6 @@ metadata:
 spec:
   interval: 1m0s
   url: https://charts.bitnami.com/bitnami
+  ref:
+    semver: ">21.1.5"
+
