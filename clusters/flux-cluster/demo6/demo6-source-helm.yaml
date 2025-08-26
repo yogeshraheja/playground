@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
 #  url: https://charts.bitnami.com/bitnami
-  url: https://registry-1.docker.io/bitnamicharts
+  url: oci://registry-1.docker.io/bitnamicharts
 
