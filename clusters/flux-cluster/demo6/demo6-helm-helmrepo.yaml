@@ -14,7 +14,6 @@ spec:
         name: demo6-source-helm
       version: 21.1.4
   interval: 1m0s
-  targetNamespace: nginxns
   values:
     service:
       nodePorts:
