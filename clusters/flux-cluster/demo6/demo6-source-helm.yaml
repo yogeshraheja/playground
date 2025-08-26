@@ -6,7 +6,6 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  url: https://charts.bitnami.com/bitnami
-  ref:
-    semver: ">21.1.5"
+#  url: https://charts.bitnami.com/bitnami
+  url: registry-1.docker.io/bitnamicharts
 
