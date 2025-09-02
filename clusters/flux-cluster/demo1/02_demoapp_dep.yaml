@@ -6,7 +6,7 @@ metadata:
   name: demoapp-dep
   namespace: demoapp-ns
 spec:
-  replicas: 6
+  replicas: 5
   selector:
     matchLabels:
       app: demoapp
