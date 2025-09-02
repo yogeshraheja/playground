@@ -10,7 +10,7 @@ spec:
   - push
   resources:
   - kind: GitRepository
-    name: flux-system
+    name: demo2-source-git
   secretRef:
     name: webhook-fluxtoken
   type: github
